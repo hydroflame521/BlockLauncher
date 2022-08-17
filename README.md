@@ -38,3 +38,5 @@ This program contains a version of Saurik's Cydia Substrate, licensed under the 
 This program uses the libsuperuser library by Chainfire.
 
 This program uses the Rhino JavaScript interpreter.
+
+hydroflame521 fork
