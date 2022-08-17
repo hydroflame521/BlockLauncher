@@ -1,4 +1,4 @@
-name: Build BlockLauncher
+name: Build BlockLauncher App
 
 on: [push]
 
